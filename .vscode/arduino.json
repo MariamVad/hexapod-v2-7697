@@ -1,0 +1,6 @@
+{
+    "board": "LinkIt:linkit_rtos:linkit_7697",
+    "programmer": "LinkIt:linkitfirmware",
+    "port": "COM7",
+    "sketch": "software\\hexapod7697\\hexapod7697.ino"
+}

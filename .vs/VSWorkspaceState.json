@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\software",
+    "\\software\\hexapod7697",
+    "\\software\\hexapod7697\\src",
+    "\\software\\hexapod7697\\src\\hexapod\\hal",
+    "\\software\\hexapod7697\\src\\linkit_control",
+    "\\software\\pathTool",
+    "\\software\\pathTool\\src",
+    "\\software\\pathTool\\src\\output",
+    "\\software\\pathTool\\src\\path"
+  ],
+  "SelectedNode": "\\software\\hexapod7697\\src\\car_mode.cpp",
+  "PreviewInSolutionExplorer": false
+}

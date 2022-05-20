@@ -1,0 +1,53 @@
+{
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.additionalUrls": [
+        "http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json",
+        "C:\\Users\\Mariami\\Documents\\ArduinoData\\packages\\LinkIt",
+        "C:\\Users\\Mariami\\Documents\\ArduinoData\\packages",
+        "C:\\Users\\Mariami\\Documents\\ArduinoData\\packages\\LinkIt\\hardware\\linkit_rtos\\0.10.21\\libraries",
+        "C:\\Users\\Mariami\\Documents\\ArduinoData\\packages\\LinkIt\\hardware\\linkit_rtos\\0.10.21\\libraries\\LRemote\\src",
+    ],
+    //"arduino.package": "C:\\Users\\Mariami\\Documents\\ArduinoData\\packages\\LinkIt",
+    "arduino.defaultBaudRate": 9600,
+    "C_Cpp.intelliSenseEngine": "Default",
+    
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.semanticTokenColorCustomizations": {
+        "rules": {
+            "*.deprecated": {
+                "foreground": "#808080",
+                "italic": true
+            }
+        }
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "algorithm": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "compare": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "xmemory": "cpp",
+        "xtr1common": "cpp"
+    },
+}
